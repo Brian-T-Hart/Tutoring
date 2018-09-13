@@ -59,6 +59,10 @@ section {
   padding: 8rem 0;
 }
 
+section#about {
+  padding: 4rem 0;
+}
+
 .section-heading {
   margin-top: 0;
 }
@@ -73,6 +77,12 @@ section {
   color: #fff;
   background: #212529;
   text-shadow: none;
+}
+
+.header-image {
+  border-radius: 5rem;
+  height: 10rem;
+  margin-bottom: 1rem;
 }
 
 img::-moz-selection {
